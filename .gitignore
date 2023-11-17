@@ -1,5 +1,4 @@
 *.egg-info/
-*.html
 .coverage
 .env
 .tox/
